@@ -30,6 +30,10 @@ body{
 }
 
 .bg-cream{
-  background-color: rgb(240, 240, 240);
+  background-color: rgb(246, 246, 246);
+}
+
+.id-hr{
+  border-width: 0;
 }
 

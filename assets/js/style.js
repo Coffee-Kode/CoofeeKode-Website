@@ -5,7 +5,7 @@ $( document ).ready(function() {
 
 
   //Scrollspy MDBootstrap
-  $('body').scrollspy({ target: '#navbar' })
+  $('body').scrollspy({ target: '#navbar'});
 
   //smooth scroll
   $(document).ready(function(){
@@ -32,5 +32,7 @@ $( document ).ready(function() {
       } // End if
     });
   });
+
+  
 
 
